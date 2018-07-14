@@ -1,0 +1,5 @@
+- user,pass test: cuong-1
+- Quản lý thêm thông tin tin nhắn đã được đọc hay chưa: trạng thái đã đọc (0)
+- Cho phép sửa thông tin bạn bè: thông tin được up date vào mask_user
+- Gửi tin nhắn: sẽ chọn cách ( chưa gộp được vào thành 1 luồng tín hiệu)
+- FX10: áp dụng cho showmess and showfr trong menu login
